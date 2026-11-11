@@ -9,7 +9,7 @@ scripts and data from my (Michael Doyle's) work in Notre Dame's Data Security an
 * `loadbalancer/` is a placeholder for potential future work.
 
 ```
-dsp-lab/
+md-dsp/
 ├── colocation/
 │   ├── scripts/
 │   └── data/
