@@ -1,5 +1,5 @@
-# dsp-lab
-files and docs for my work in ND's Data Security and Privacy Lab
+# md-dsp
+files and docs for my (Michael Doyle's) work in ND's Data Security and Privacy Lab
 
 ```
 dsp-lab/
