@@ -1,0 +1,2 @@
+TDXCYCLE STAGE guest_start 1793203842.766965315 kernel=7.0.0-1014-gcp
+TDXCYCLE STAGE quote_done 1793203842.844616051 provider=tdx_guest
